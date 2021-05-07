@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  body{
+    font-family: helvetica;
+  }
+  #main-doc{
+    display: flex;
+    
+  }
+  .body-container{
+    padding: 2rem 2rem 2rem 3rem;
+  }
+  .nav-container{
+      width: 90%;
+      line-height: 3rem;
+      padding: 1rem 2rem 2rem 3rem
+  }
+nav li{
+      list-style: none;
+  }
+  a{
+      text-decoration: none;
+  }
+p, h1{
+    padding:1rem 0;
+}
